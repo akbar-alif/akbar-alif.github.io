@@ -1,2 +1,0 @@
-# laravue
-Laravel Vue project
